@@ -1,2 +1,3 @@
-# Colloquium-Java-05.12.2022
 An implementation of the Strategy Design Pattern in Java with Unit Tests.
+
+A BookShelf contains Books. Books are made up of a title and a length (the number of pages in them). A BookShelf can be sorted using two different strategies, sorting by length from smallest to largest (LengthSort) and sorting alphabetically by title (TitleSort).
